@@ -1,0 +1,16 @@
+h1{color:rgb(240, 17, 140);}
+*{border:solid;}
+.header{
+    background-color: aqua;
+    display:Flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: rgb(226, 38, 38);
+    display: flex;
+    justify-content: stretch;
+}
+body{
+    background-color: rgb(38, 226, 226);
+    font-style: italic;
+}
